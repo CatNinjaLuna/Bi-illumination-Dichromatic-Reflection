@@ -1,6 +1,6 @@
 # Bi-illumination Dichromatic Reflection (BIDR) Analysis
 
-This repository contains Python implementations for analyzing and visualizing the Bi-illumination Dichromatic Reflection (BIDR) model, a computer vision technique used for understanding how surfaces appear under different lighting conditions.
+This repository explores concepts and implementations from the paper **"A bi-illuminant dichromatic reflection model for understanding images"** by Maxwell et al. (2008). It contains Python implementations for analyzing and visualizing the Bi-illumination Dichromatic Reflection (BIDR) model, a computer vision technique used for understanding how surfaces appear under different lighting conditions.
 
 ## Overview
 
